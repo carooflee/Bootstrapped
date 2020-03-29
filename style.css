@@ -1,9 +1,9 @@
-.navbar-expand-lg navbar-light bg-light nav ul {
+.navbar-expand-sm navbar-light bg-light nav ul {
     white-space:nowrap;
 }
 
-.navbar-expand-lg navbar-light bg-light nav ul li {
-    min-width:55px;
+.navbar-expand-sm navbar-light bg-light nav ul li {
+    min-width:25px;
 }
 
 .img-fluid {
@@ -29,3 +29,15 @@ footer {
     background-color: grey;
     margin-top: 50px;
 }
+
+.navbar-expand{-sm|-md|-lg|-xl}
+
+@media only screen and (max-width: 350px) {
+    [class*="col-"] {
+      width: 100%;
+    }
+  }
+
+  .container-fluid {
+      width: 100%; 
+  }

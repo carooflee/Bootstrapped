@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
@@ -87,3 +88,7 @@ You are required to submit the following:
 - - -
 
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+=======
+# Bootstrapped
+A Bootstrap-assisted website containing a selective bio, portfolio, and contact information.
+>>>>>>> 1f01bcb34e23638610657182b289a67a985f1688
