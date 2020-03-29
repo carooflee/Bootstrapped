@@ -30,8 +30,6 @@ footer {
     margin-top: 50px;
 }
 
-.navbar-expand{-sm|-md|-lg|-xl}
-
 @media only screen and (max-width: 350px) {
     [class*="col-"] {
       width: 100%;
