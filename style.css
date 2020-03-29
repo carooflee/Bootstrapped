@@ -1,0 +1,31 @@
+.navbar-expand-lg navbar-light bg-light nav ul {
+    white-space:nowrap;
+}
+
+.navbar-expand-lg navbar-light bg-light nav ul li {
+    min-width:55px;
+}
+
+.img-fluid {
+    width: 100% \9;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 35vw;
+    object-fit: cover;
+}
+
+.jumbotron {
+    background-color:teal;
+    text-align:center;
+}
+
+.formwith {
+    margin-left: 10px;
+}
+
+footer {
+    background-color: grey;
+    margin-top: 50px;
+}
