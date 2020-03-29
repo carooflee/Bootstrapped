@@ -41,3 +41,7 @@ footer {
   .container-fluid {
       width: 100%; 
   }
+
+  .white {
+      color: white; 
+  }
