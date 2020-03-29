@@ -3,7 +3,7 @@
 }
 
 .navbar-expand-sm navbar-light bg-light nav ul li {
-    min-width:25px;
+    min-width:1px;
 }
 
 .img-fluid {
