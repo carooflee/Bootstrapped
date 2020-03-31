@@ -36,10 +36,24 @@ footer {
     }
   }
 
+@media (min-width: 576px) { ... }
+
+@media (min-width: 768px) { ... }
+
+@media (min-width: 992px) { ... }
+
+@media (min-width: 1200px) { ... }
+
   .container-fluid {
       width: 100%; 
   }
 
   .white {
       color: white; 
+  }
+
+  @include media-breakpoint-up(sm) {
+    .some-class {
+      display: block;
+    }
   }
