@@ -49,3 +49,7 @@ footer {
       display: block;
     }
   }
+
+  .col-sm-3 {
+      float: left;
+  }
